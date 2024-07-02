@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Luan Nguyen</h1>
 <h3 align="center">Recent Computer Science and Software Engineering Graduate</h3>
 
-- 🌱 I’m currently learning **React**
+[![Luan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jhin1808)](https://github.com/Jhin1808/github-readme-stats)
+
+- 🌱 I’m currently learning **React And Spring Boot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jhin1808](https://github.com/Jhin1808)
 
