@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React And Spring Boot**
 
-- **I'm current looking for SWE entry position**
+- **Actively Seeking Software Engineer Positions**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jhin1808](https://github.com/Jhin1808)
 
