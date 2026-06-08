@@ -2,8 +2,8 @@
 <h3 align="center">Recent Computer Science and Software Engineering Graduate</h3>
 
 - 🌱 I’m currently learning **React And Spring Boot**
-- 
-- - **Check out my website thats currently live: https://smartgrocery.online/**
+
+- **Check out my website thats currently live: https://smartgrocery.online/**
 
 - **Actively Seeking Software Engineer Positions**
 
